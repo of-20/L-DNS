@@ -1,0 +1,21 @@
+{
+    "entropy_threshold": 4.15,
+    "max_subdomain_length": 35,
+    "max_fqdn_length": 70,
+    "consonant_ratio_threshold": 0.75,
+    "high_risk_record_types": [
+        16,
+        10,
+        5,
+        15,
+        28
+    ],
+    "rate_limit_window_sec": 60,
+    "rate_limit_max_queries": 50,
+    "whitelist_domains": [
+        "google.com",
+        "microsoft.com",
+        "github.com",
+        "cloudflare.com"
+    ]
+}

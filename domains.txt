@@ -1,0 +1,5 @@
+google.com
+v10a-a18z9f2k8l23x11.attacker-server.com
+aGVsbG93b3JsZHRlc3RkYXRh.tunnel.malicious.net
+cloudflare.com
+00112233445566778899aabbccddeeff.data.exfil.org
