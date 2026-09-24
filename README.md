@@ -25,3 +25,8 @@
    ```bash
    git clone [https://github.com/YOUR_USERNAME/L-DNS.git](https://github.com/YOUR_USERNAME/L-DNS.git)
    cd L-DNS
+   ## Live Demo & Detection Results
+
+Below is a real-time detection demonstration showing L-DNS identifying a malicious DNS tunneling query with a 100% threat score:
+
+![L-DNS Live Detection Screenshot](demo.jpg)
